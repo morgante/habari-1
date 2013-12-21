@@ -1,5 +1,4 @@
 .htaccess
+.php-version
 config.php
 user/habari.db
-user/themes/*
-user/plugins/*
