@@ -10,3 +10,6 @@
 [submodule "user/plugins/hbook"]
 	path = user/plugins/hbook
 	url = git@github.com:morgante/hbook.git
+[submodule "user/plugins/habari-api"]
+	path = user/plugins/habari-api
+	url = git@github.com:morgante/habari-api.git
