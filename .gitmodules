@@ -7,3 +7,6 @@
 [submodule "user/plugins/metaseo"]
 	path = user/plugins/metaseo
 	url = git@github.com:habari-extras/metaseo.git
+[submodule "user/plugins/hbook"]
+	path = user/plugins/hbook
+	url = git@github.com:morgante/hbook.git
