@@ -4,3 +4,6 @@
 [submodule "doc"]
 	path = doc
 	url = https://github.com/habari/doc.git
+[submodule "user/plugins/metaseo"]
+	path = user/plugins/metaseo
+	url = git@github.com:habari-extras/metaseo.git
