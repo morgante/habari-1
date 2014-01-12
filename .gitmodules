@@ -13,3 +13,9 @@
 [submodule "user/plugins/habari-api"]
 	path = user/plugins/habari-api
 	url = git@github.com:morgante/habari-api.git
+[submodule "user/plugins/socialadmin"]
+	path = user/plugins/socialadmin
+	url = git@github.com:Konzertheld/socialadmin.git
+[submodule "user/plugins/githubauth"]
+	path = user/plugins/githubauth
+	url = https://github.com/morgante/githubauth.git
