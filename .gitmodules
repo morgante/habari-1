@@ -15,7 +15,10 @@
 	url = git@github.com:morgante/habari-api.git
 [submodule "user/plugins/socialadmin"]
 	path = user/plugins/socialadmin
-	url = git@github.com:Konzertheld/socialadmin.git
+	url = https://github.com/morgante/socialadmin.git
 [submodule "user/plugins/githubauth"]
 	path = user/plugins/githubauth
 	url = https://github.com/morgante/githubauth.git
+[submodule "user/plugins/rabbitmq"]
+	path = user/plugins/rabbitmq
+	url = https://github.com/morgante/habari-rabbitmq.git
